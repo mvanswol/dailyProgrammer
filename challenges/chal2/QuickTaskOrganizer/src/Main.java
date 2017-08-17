@@ -34,8 +34,6 @@ public class Main {
 			QuickTaskOrganizerUI test = new QuickTaskOrganizerUI();
 			test.setVisible(true);
 			
-			QuitButton qButton = new QuitButton();
-			qButton.setVisible(true);
 		});
 		
 		
